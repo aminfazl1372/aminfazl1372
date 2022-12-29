@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aminfazl
+- 👀 I’m interested in python
+- 🌱 I’m currently learning deep learning in python
